@@ -2,6 +2,6 @@
 Console.WriteLine("Epam");
 Console.WriteLine("Softserve");
 Console.WriteLine("Sigma");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Sana");
+Console.WriteLine("ISM");
+Console.WriteLine("Viseven");
