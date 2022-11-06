@@ -10,6 +10,6 @@
 - вивантаження локального репозиторію на **GitHub**.
 
 Репозиторій на:
--[x] GitHub
--[ ] GitLab
--[ ] Bitbucket
+- [x] GitHub
+- [ ] GitLab
+- [ ] Bitbucket
